@@ -1,0 +1,4 @@
+Music|Guitar#1.33
+Music|Piano#0.67
+Programming|Java code#0.5
+Programming|PHP code#1.0
